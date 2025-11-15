@@ -18,7 +18,7 @@ export default function ScheduleFilters({ selected, onChange }) {
             ${
               selected === item.id
                 ? "bg-purple-600 text-white font-semibold"
-                : "bg-white/10 text-gray-300 hover:bg-white/20"
+                : "bg-zinc-400/10 hover:bg-white/20"
             }`}
         >
           {item.label}

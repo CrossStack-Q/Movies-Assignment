@@ -21,7 +21,7 @@ export default function ReleaseSection({
 
   return (
     <section className="mb-12">
-      <h2 className="text-2xl font-bold text-white mb-5">{title}</h2>
+      <h2 className="text-2xl font-bold mb-5">{title}</h2>
 
       {/* Movie Grid */}
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-6 gap-6">
@@ -42,10 +42,10 @@ export default function ReleaseSection({
             </div>
 
             <div className="p-3">
-              <h3 className="font-semibold text-sm text-white leading-tight">
+              <h3 className="font-semibold text-sm  leading-tight">
                 {movie.title}
               </h3>
-              <p className="text-xs text-gray-400 mt-1">
+              <p className="text-xs mt-1">
                 {movie.label || movie.type.toUpperCase()}
               </p>
             </div>

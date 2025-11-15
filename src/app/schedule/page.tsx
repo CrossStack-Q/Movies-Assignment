@@ -8,7 +8,6 @@ import ReleaseDayRow from "@/components/ReleaseSection";
 
 export default function SchedulePage() {
   const [tab, setTab] = useState("released");
-
   const [type, setType] = useState<"all" | "movie" | "series">("all");
   const [mode, setMode] = useState<"ott" | "theatre" | "all">("all");
 
@@ -17,19 +16,13 @@ export default function SchedulePage() {
   const filtered = useMemo(() => {
     let list = [...raw];
 
-    // match main type (Movies/Series)
     if (type !== "all") {
       list = list.filter((i) => i.type === type);
     }
 
-    // Sub filter (only for movies)
     if (type === "movie") {
-      if (mode === "ott") {
-        list = list.filter((i) => /ott/i.test(i.label));
-      }
-      if (mode === "theatre") {
-        list = list.filter((i) => /theatre/i.test(i.label));
-      }
+      if (mode === "ott") list = list.filter((i) => /ott/i.test(i.label));
+      if (mode === "theatre") list = list.filter((i) => /theatre/i.test(i.label));
     }
 
     return list.sort(
@@ -49,18 +42,16 @@ export default function SchedulePage() {
   );
 
   return (
-    <main className="h-[calc(100vh-64px)] grid grid-cols-[320px_1fr] bg-[#000] px-12 max-w-7xl mx-auto py-10">
-      {/* LEFT */}
-      <div className="border-r border-white/10 h-full sticky top-[64px] overflow-hidden ">
+    <main className="h-[calc(100vh-64px)] grid grid-cols-[320px_1fr] bg-white dark:bg-black text-black dark:text-white px-12 max-w-7xl mx-auto py-10">
+      
+      <div className="border-r border-black/10 dark:border-white/10 h-full sticky top-[64px] overflow-hidden">
         <div className="p-6">
           <ScheduleFilters selected={tab} onChange={setTab} />
         </div>
       </div>
 
-      {/* RIGHT */}
       <div className="overflow-y-auto h-full scrollbar-hide p-8">
 
-        {/* FIXED TABS */}
         <div className="mb-6">
           <TypeTabs
             onCategoryChange={(cat) => {
@@ -69,10 +60,10 @@ export default function SchedulePage() {
                 setMode("all");
               } else if (cat === "Movies") {
                 setType("movie");
-                setMode("theatre"); // default
+                setMode("theatre");
               } else if (cat === "Series") {
                 setType("series");
-                setMode("all"); // no series mode
+                setMode("all");
               }
             }}
             onSubFilterChange={(sub) => {

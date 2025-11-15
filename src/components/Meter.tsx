@@ -61,8 +61,7 @@ export default function Meter({ data }: MeterProps) {
   ];
 
   return (
-    <div className="w-full bg-white/5 p-8 rounded-2xl">
-      <h2 className="text-2xl font-bold text-white mb-6">Moctale Meter</h2>
+    <div className="w-full rounded-2xl">
 
       <div className="flex flex-col items-center justify-center">
         {/* Semi-circle gauge */}
@@ -105,7 +104,7 @@ export default function Meter({ data }: MeterProps) {
     {centerValue}%
   </p>
 
-  <p className="text-gray-300 text-lg">
+  <p className="text-lg">
     {data?.votes ? `${data.votes} Votes` : ""}
   </p>
 </div>
@@ -125,8 +124,8 @@ export default function Meter({ data }: MeterProps) {
                   className="w-3 h-3 rounded-full"
                   style={{ background: colorMap[i % colorMap.length] }}
                 />
-                <span className="text-gray-200">{label}</span>
-                <span className="text-gray-400 text-sm">{pct}%</span>
+                <span className="">{label}</span>
+                <span className=" text-sm">{pct}%</span>
               </div>
             );
           })}

@@ -57,7 +57,7 @@ export default function HomePage() {
   );
 
   return (
-    <main className="max-w-7xl mx-auto py-10 px-6 lg:px-12 text-white">
+    <main className="max-w-7xl mx-auto py-10 px-6 lg:px-12">
 
       <h1 className="text-4xl font-bold mb-8">🎬 Explore Movies</h1>
 
