@@ -10,18 +10,14 @@ export default function ExplorePage() {
 
       <h1 className="text-4xl font-bold mb-10">Explore</h1>
 
-      {/* ========================= */}
-      {/* 🔥 TALK OF THE TOWN      */}
-      {/* ========================= */}
       <section className="mb-16">
         <h2 className="text-2xl font-semibold mb-6 flex items-center gap-2">
           <span>🔥</span> Talk Of The Town
         </h2>
 
-        {/* GRID 5x2 like Movie Assignmnet */}
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-6">
           {explore.talk_of_town.map((item, index) => (
-            <Link href={`/content/${item.slug}`}>
+            <Link href={`/content/${item.slug}`} key={index}>
             <div
               key={index}
               className="rounded-xl overflow-hidden bg-white/5 hover:bg-white/10 transition cursor-pointer"
@@ -43,19 +39,15 @@ export default function ExplorePage() {
         </div>
       </section>
 
-      {/* ========================= */}
-      {/* 🤍 EDITOR’S PICK         */}
-      {/* ========================= */}
       <section className="mb-16">
         <h2 className="text-2xl font-semibold mb-6 flex items-center gap-2">
           <span>🤍</span> Editor’s Pick Of The Week
         </h2>
 
-        {/* Editor Pick grid: 5 items max */}
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-6">
           
           {explore.editors_pick.map((item, index) => (
-            <Link href={`/content/${item.slug}`}>
+            <Link href={`/content/${item.slug}`} key={index}>
             <div
               key={index}
               className="rounded-xl overflow-hidden bg-white/5 hover:bg-white/10 transition cursor-pointer"
@@ -77,9 +69,7 @@ export default function ExplorePage() {
         </div>
       </section>
 
-      {/* ========================= */}
-      {/* ⏳ COMING SOON           */}
-      {/* ========================= */}
+     
       <section className="mb-16">
         <h2 className="text-2xl font-semibold mb-6 flex items-center gap-2">
           <span>🤯</span> Popular Now
@@ -87,7 +77,7 @@ export default function ExplorePage() {
 
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-6">
           {explore.coming_soon.map((item, index) => (
-            <Link href={`/content/${item.slug}`}>
+            <Link href={`/content/${item.slug}`} key={index}>
             <div
               key={index}
               className="rounded-xl overflow-hidden bg-white/5 hover:bg-white/10 transition cursor-pointer"
