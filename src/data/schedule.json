@@ -1,0 +1,437 @@
+{
+  "released": [
+    {
+      "title": "Last Samurai Standing",
+      "poster": "/schedule_files/released/last_samurai.webp",
+      "type": "series",
+      "releaseDate": "2025-11-15",
+      "label": "New Show • 2025",
+      "schedule": "today",
+      "slug": "last-samurai-standing-2025"
+    },
+    {
+      "title": "Nishaanchi 2",
+      "poster": "/schedule_files/released/nishaanchi2.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "OTT Release • 2025",
+      "schedule": "released",
+      "slug": "nishaanchi-2-2025"
+    },
+    {
+      "title": "Jai",
+      "poster": "/schedule_files/released/jai.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "In Theatre • 2025",
+      "schedule": "released",
+      "slug": "jai-2025"
+    },
+    {
+      "title": "Jigris",
+      "poster": "/schedule_files/released/jigris.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "In Theatre • 2025",
+      "schedule": "released",
+      "slug": "jigris-2025"
+    },
+    {
+      "title": "2020 Delhi",
+      "poster": "/schedule_files/released/2020_delhi.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "In Theatre • 2025",
+      "schedule": "released",
+      "slug": "2020-delhi-2025"
+    },
+    {
+      "title": "Agra",
+      "poster": "/schedule_files/released/agra.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "OTT Release • 2025",
+      "schedule": "released",
+      "slug": "agra-2025"
+    },
+    {
+      "title": "Christmas Karma",
+      "poster": "/schedule_files/released/ChristmasKarma.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "OTT Release • 2025",
+      "schedule": "released",
+      "slug": "christmas-karma-2025"
+    },
+    {
+      "title": "In Your Dreams",
+      "poster": "/schedule_files/released/InYourDreams.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "OTT Release • 2025",
+      "schedule": "released",
+      "slug": "in-your-dreams-2025"
+    },
+    {
+      "title": "Jolly 3",
+      "poster": "/schedule_files/released/jolly3.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "In Theatre • 2025",
+      "schedule": "released",
+      "slug": "jolly-3-2025"
+    },
+    {
+      "title": "Kaantha",
+      "poster": "/schedule_files/released/kaantha.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "In Theatre • 2025",
+      "schedule": "released",
+      "slug": "kaantha-2025"
+    },
+    {
+      "title": "Keeper",
+      "poster": "/schedule_files/released/keeper.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "OTT Release • 2025",
+      "schedule": "released",
+      "slug": "keeper-2025"
+    },
+    {
+      "title": "Kumki 2",
+      "poster": "/schedule_files/released/kumki2.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "In Theatre • 2025",
+      "schedule": "released",
+      "slug": "kumki-2-2025"
+    },
+    {
+      "title": "Love OTP",
+      "poster": "/schedule_files/released/loveotp.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "OTT Release • 2025",
+      "schedule": "released",
+      "slug": "love-otp-2025"
+    },
+    {
+      "title": "Now You See Me (Re-release)",
+      "poster": "/schedule_files/released/Nowyouseeme.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "OTT Release • 2025",
+      "schedule": "released",
+      "slug": "now-you-see-me-re2-2025"
+    },
+    {
+      "title": "Santhana Prapthi Rasthu",
+      "poster": "/schedule_files/released/SanthanaPrapthirasthu.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "In Theatre • 2025",
+      "schedule": "released",
+      "slug": "santhana-prapthi-rasthu-2025"
+    },
+    {
+      "title": "Spiderman",
+      "poster": "/schedule_files/released/spiderman.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "In Theatre • 2025",
+      "schedule": "released",
+      "slug": "spiderman-2025"
+    },
+    {
+      "title": "Spiderman 2",
+      "poster": "/schedule_files/released/spiderman2.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "In Theatre • 2025",
+      "schedule": "released",
+      "slug": "spiderman-2-2025"
+    },
+    {
+      "title": "Spiderman 3",
+      "poster": "/schedule_files/released/spiderman3.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "In Theatre • 2025",
+      "schedule": "released",
+      "slug": "spiderman-3-2025"
+    },
+    {
+      "title": "The Carpenter's Son",
+      "poster": "/schedule_files/released/TheCarpenterSon.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "OTT Release • 2025",
+      "schedule": "released",
+      "slug": "the-carpenters-son-2025"
+    },
+    {
+      "title": "Trap House",
+      "poster": "/schedule_files/released/TrapHouse.webp",
+      "type": "movie",
+      "releaseDate": "2025-11-14",
+      "label": "In Theatre • 2025",
+      "schedule": "released",
+      "slug": "trap-house-2025"
+    }
+  ],
+
+  "today": [
+    {
+      "title": "Last Samurai Standing",
+      "poster": "/schedule_files/released/last_samurai.webp",
+      "type": "series",
+      "releaseDate": "2025-11-15",
+      "label": "New Show • 2025",
+      "schedule": "today",
+      "slug": "last-samurai-standing-2025"
+    }
+  ],
+
+  "upcoming": [
+  {
+    "title": "Landman",
+    "poster": "/schedule_files/upcoming/landman.webp",
+    "type": "series",
+    "releaseDate": "2025-11-16",
+    "label": "New Season • 2024",
+    "schedule": "upcoming",
+    "slug": "landman-2025"
+  },
+  {
+    "title": "Champagne Problems",
+    "poster": "/schedule_files/upcoming/champagne_problems.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-19",
+    "label": "OTT Release • 2025",
+    "schedule": "upcoming",
+    "slug": "champagne-problems-2025"
+  },
+  {
+    "title": "The Mighty Nein",
+    "poster": "/schedule_files/upcoming/the_mighty_nein.webp",
+    "type": "series",
+    "releaseDate": "2025-11-19",
+    "label": "New Show • 2025",
+    "schedule": "upcoming",
+    "slug": "the-mighty-nein-2025"
+  },
+  {
+    "title": "The Death of Bunny M",
+    "poster": "/schedule_files/upcoming/the_death_of_bunny_m.webp",
+    "type": "series",
+    "releaseDate": "2025-11-20",
+    "label": "New Show • 2025",
+    "schedule": "upcoming",
+    "slug": "the-death-of-bunny-m-2025"
+  },
+  {
+    "title": "The Roses",
+    "poster": "/schedule_files/upcoming/the_roses.webp",
+    "type": "series",
+    "releaseDate": "2025-11-20",
+    "label": "OTT Release • 2025",
+    "schedule": "upcoming",
+    "slug": "the-roses-2025"
+  },
+  {
+    "title": "A Man on the Inside",
+    "poster": "/schedule_files/upcoming/a_man_on_the_inside.webp",
+    "type": "series",
+    "releaseDate": "2025-11-20",
+    "label": "New Season • 2024",
+    "schedule": "upcoming",
+    "slug": "a-man-on-the-inside-2025"
+  },
+  {
+    "title": "Nadu Center",
+    "poster": "/schedule_files/upcoming/nadu_center.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-20",
+    "label": "OTT Release • 2025",
+    "schedule": "upcoming",
+    "slug": "nadu-center-2025"
+  },
+  {
+    "title": "Train Dreams",
+    "poster": "/schedule_files/upcoming/train_dreams.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-21",
+    "label": "OTT Release • 2025",
+    "schedule": "upcoming",
+    "slug": "train-dreams-2025"
+  },
+  {
+    "title": "Rental Family",
+    "poster": "/schedule_files/upcoming/rental_family.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-21",
+    "label": "In Theatre • 2025",
+    "schedule": "upcoming",
+    "slug": "rental-family-2025"
+  },
+  {
+    "title": "Middle Class",
+    "poster": "/schedule_files/upcoming/middle_class.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-21",
+    "label": "In Theatre • 2025",
+    "schedule": "upcoming",
+    "slug": "middle-class-2025"
+  },
+  {
+    "title": "Mastiii 4",
+    "poster": "/schedule_files/upcoming/mastiii_4.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-21",
+    "label": "In Theatre • 2025",
+    "schedule": "upcoming",
+    "slug": "mastiii-4-2025"
+  },
+  {
+    "title": "Bel-Air",
+    "poster": "/schedule_files/upcoming/bel_air.webp",
+    "type": "series",
+    "releaseDate": "2025-11-24",
+    "label": "New Season • 2022",
+    "schedule": "upcoming",
+    "slug": "bel-air-2025"
+  },
+  {
+    "title": "Wildcat",
+    "poster": "/schedule_files/upcoming/wildcat.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-25",
+    "label": "In Theatre • 2025",
+    "schedule": "upcoming",
+    "slug": "wildcat-2025"
+  },
+  {
+    "title": "Eternity",
+    "poster": "/schedule_files/upcoming/eternity.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-26",
+    "label": "In Theatre • 2025",
+    "schedule": "upcoming",
+    "slug": "eternity-2025"
+  },
+  {
+    "title": "Zootopia 2",
+    "poster": "/schedule_files/upcoming/zootopia_2.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-26",
+    "label": "In Theatre • 2025",
+    "schedule": "upcoming",
+    "slug": "zootopia-2-2025"
+  },
+  {
+    "title": "Stranger Things",
+    "poster": "/schedule_files/upcoming/stranger_things.webp",
+    "type": "series",
+    "releaseDate": "2025-11-27",
+    "label": "New Season • 2016",
+    "schedule": "upcoming",
+    "slug": "stranger-things-2025"
+  },
+  {
+    "title": "Kalamkaval",
+    "poster": "/schedule_files/upcoming/kalamkaval.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-27",
+    "label": "In Theatre • 2025",
+    "schedule": "upcoming",
+    "slug": "kalamkaval-2025"
+  },
+  {
+    "title": "Ekaki",
+    "poster": "/schedule_files/upcoming/ekaki.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-27",
+    "label": "OTT Release • 2025",
+    "schedule": "upcoming",
+    "slug": "ekaki-2025"
+  },
+  {
+    "title": "Hamnet",
+    "poster": "/schedule_files/upcoming/hamnet.webp",
+    "type": "movie",
+    "releaseDate": "2025-11-27",
+    "label": "In Theatre • 2025",
+    "schedule": "upcoming",
+    "slug": "hamnet-2025"
+  }
+],
+
+  "announced": [
+  {
+    "title": "Purushaha",
+    "poster": "/schedule_files/announced/purushaha.jpg",
+    "type": "movie",
+    "releaseDate": "2025-12-01",
+    "label": "In Theatre • 2025",
+    "schedule": "announced",
+    "slug": "purushaha-2025"
+  },
+  {
+    "title": "Abar Hawa Bodol",
+    "poster": "/schedule_files/announced/abar_hawa_bodol.jpg",
+    "type": "movie",
+    "releaseDate": "2025-12-01",
+    "label": "In Theatre • 2025",
+    "schedule": "announced",
+    "slug": "abar-hawa-bodol-2025"
+  },
+  {
+    "title": "Manithan Deivamagalam",
+    "poster": "/schedule_files/announced/manithan_deivamagalam.jpg",
+    "type": "movie",
+    "releaseDate": "2025-12-01",
+    "label": "In Theatre • 2025",
+    "schedule": "announced",
+    "slug": "manithan-deivamagalam-2025"
+  },
+  {
+    "title": "Vijaynagarer Heere",
+    "poster": "/schedule_files/announced/vijaynagarer_heere.jpg",
+    "type": "movie",
+    "releaseDate": "2025-12-01",
+    "label": "In Theatre • 2025",
+    "schedule": "announced",
+    "slug": "vijaynagarer-heere-2025"
+  },
+  {
+    "title": "Wolf",
+    "poster": "/schedule_files/announced/wolf.jpg",
+    "type": "movie",
+    "releaseDate": "2025-12-01",
+    "label": "In Theatre • 2025",
+    "schedule": "announced",
+    "slug": "wolf-2025"
+  },
+  {
+    "title": "Jockey 42",
+    "poster": "/schedule_files/announced/jockey_42.jpg",
+    "type": "movie",
+    "releaseDate": "2025-12-01",
+    "label": "In Theatre • 2025",
+    "schedule": "announced",
+    "slug": "jockey-42-2025"
+  },
+  {
+    "title": "Saali Mohabbat",
+    "poster": "/schedule_files/announced/saali_mohabbat.jpg",
+    "type": "movie",
+    "releaseDate": "2025-12-01",
+    "label": "OTT Release • 2025",
+    "schedule": "announced",
+    "slug": "saali-mohabbat-2025"
+  }
+]
+
+}

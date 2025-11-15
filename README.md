@@ -1,36 +1,114 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Movie Assignment Project
 
-## Getting Started
+Made by Anurag Sharma for Assignment.
 
-First, run the development server:
+## Overview
 
-```bash
+This project is a complete movie exploration and schedule application built using Next.js 14 (App Router), Tailwind CSS, and fully static JSON-based data for movies, schedules, upcoming releases, and more.
+
+The purpose of the project is to showcase UI development, data management, dynamic routing, and component structuring in a production-like environment while keeping the system simple, readable, and performant.
+
+The application includes:
+- Explore page with categorized lists
+- Schedule page with date grouping and filters
+- Movie detail pages with dynamic routing
+- Type-based and mode-based filtering
+- Complete movie metadata rendered from movies.json
+- Reusable UI components
+- Clean folder structure and maintainable code
+
+## Features
+
+### Explore Page
+- Displays multiple movie categories such as Talk of the Town, Editor's Picks, Coming Soon, and Popular Now.
+- Uses data from explore.json
+- Clicking a movie opens its details page
+
+### Schedule Page
+- Displays grouped releases by date (Released, Today, Upcoming, Announced)
+- Fully scrollable right content section
+- Left sidebar is sticky
+- Advanced filters using TypeTabs (Movies, Series, OTT, Theatre)
+- Movie cards grouped by release date
+- Uses schedule.json
+
+### Movie Details Page
+- Built dynamically using /content/[slug]
+- Displays poster, backdrop, year, metadata, overview
+- Vibe chart
+- Moctale meter (semi-circle meter)
+- Cast, crew, tickets, reviews section support
+- Trailer modal with embedded player
+- Works with movies.json file containing ~70 entries
+
+### Home Page Movies Listing
+- Full searchable grid listing of all movies from movies.json
+- Sorting: Newest, Oldest, Alphabetical, Rating
+- Filters: Type, Genre, Language
+- Click card → navigate to detail page
+
+## Tech Stack
+
+- Next.js 14 (App Router)
+- React
+- Tailwind CSS
+- JavaScript / TypeScript compatible
+- Static JSON datasets
+- Responsive layout
+- Fully client and server mix rendering
+
+## Folder Structure
+
+src/
+  app/
+    explore/
+    schedule/
+    content/[slug]/
+    page.tsx
+    layout.tsx
+    globals.css
+  components/
+    Navbar.tsx
+    TypeTabs.tsx
+    ScheduleFilters.tsx
+    ReleaseSection.tsx
+    VibeChart.tsx
+    Meter.tsx
+  data/
+    movies.json
+    explore.json
+    schedule.json
+public/
+  explore_files/
+  schedule_files/
+
+## Running the Project
+
+### Install dependencies
+npm install
+
+### Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Build for production
+npm run build
+npm start
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project can be deployed easily using Vercel.
 
-## Learn More
+Steps:
+1. Push your project to a GitHub repository
+2. Open https://vercel.com
+3. Import your repository
+4. Select framework: Next.js
+5. Deploy
 
-To learn more about Next.js, take a look at the following resources:
+## Data Files
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- movies.json contains full metadata for every show/movie
+- explore.json holds category data
+- schedule.json holds released/today/upcoming/announced data
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+All images are stored inside public/explore_files and public/schedule_files.

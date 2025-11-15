@@ -1,0 +1,130 @@
+{
+  "talk_of_town": [
+    {
+      "title": "De De Pyaar 2",
+      "poster": "/explore_files/de_de_pyaar_2.webp",
+      "tag": "New Movie • 2025",
+      "slug": "de-de-pyaar-2-2025"
+    },
+    {
+      "title": "Tere Ishq Mein",
+      "poster": "/explore_files/tere_ishq_mein.webp",
+      "tag": "Trailer • 2025",
+      "slug": "tere-ishq-mein-2025"
+    },
+    {
+      "title": "Barakamon",
+      "poster": "/explore_files/barakamon.webp",
+      "tag": "Anime • Slice of Life",
+      "slug": "barakamon-2014"
+    },
+    {
+      "title": "Kaantha",
+      "poster": "/explore_files/kaantha.webp",
+      "tag": "New Movie • 2025",
+      "slug": "kaantha-2025"
+    },
+    {
+      "title": "Predator: Badlands",
+      "poster": "/explore_files/badlands.webp",
+      "tag": "Movie • 2025",
+      "slug": "predator-badlands-2025"
+    },
+    {
+      "title": "Laalo Krishna",
+      "poster": "/explore_files/laalo.webp",
+      "tag": "Coming Soon",
+      "slug": "laalo-krishna-2025"
+    },
+    {
+      "title": "Delhi Crime 3",
+      "poster": "/explore_files/delhi_crime.webp",
+      "tag": "New Season • 2025",
+      "slug": "delhi-crime-3-2025"
+    },
+    {
+      "title": "Frankenstein",
+      "poster": "/explore_files/frankenstein.webp",
+      "tag": "Movie • 2025",
+      "slug": "frankenstein-2025"
+    },
+    {
+      "title": "Now You See Me",
+      "poster": "/explore_files/now_you_see_me.webp",
+      "tag": "Popular Movie",
+      "slug": "now-you-see-me-2013"
+    },
+    {
+      "title": "Pluribus",
+      "poster": "/explore_files/pluribus.webp",
+      "tag": "New Episode",
+      "slug": "pluribus-2025"
+    }
+  ],
+
+  "editors_pick": [
+    {
+      "title": "Parking",
+      "poster": "/explore_files/parking.webp",
+      "tag": "Movie • 2023",
+      "slug": "parking-2023"
+    },
+    {
+      "title": "The Leftovers",
+      "poster": "/explore_files/the_leftovers.webp",
+      "tag": "Show • 2014",
+      "slug": "the-leftovers-2014"
+    },
+    {
+      "title": "Captain Fantastic",
+      "poster": "/explore_files/captain_fantastic.webp",
+      "tag": "Movie • 2016",
+      "slug": "captain-fantastic-2016"
+    },
+    {
+      "title": "Pan's Labyrinth",
+      "poster": "/explore_files/pan-labyrinth.webp",
+      "tag": "Movie • 2006",
+      "slug": "pans-labyrinth-2006"
+    },
+    {
+      "title": "Baramulla",
+      "poster": "/explore_files/baramulla.webp",
+      "tag": "Thriller • 2025",
+      "slug": "baramulla-2025"
+    }
+  ],
+
+  "coming_soon": [
+    {
+      "title": "Laalo Krishna",
+      "poster": "/explore_files/laalo.webp",
+      "tag": "Coming Soon • 2025",
+      "slug": "laalo-krishna-2025"
+    },
+    {
+      "title": "Fruits Basket Prelude",
+      "poster": "/explore_files/fruits_basket.webp",
+      "tag": "Anime • 2022",
+      "slug": "fruits-basket-prelude-2022"
+    },
+    {
+      "title": "Joram",
+      "poster": "/explore_files/joram.webp",
+      "tag": "Movie • 2023",
+      "slug": "joram-2023"
+    },
+    {
+      "title": "Mahanati",
+      "poster": "/explore_files/mahanati.webp",
+      "tag": "Movie • 2023",
+      "slug": "mahanati-2023"
+    },
+    {
+      "title": "AIR",
+      "poster": "/explore_files/air.webp",
+      "tag": "Movie • 2023",
+      "slug": "air-2023"
+    }
+  ]
+}

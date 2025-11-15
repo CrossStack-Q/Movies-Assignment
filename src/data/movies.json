@@ -1,0 +1,3063 @@
+[
+  {
+    "slug": "de-de-pyaar-2-2025",
+    "title": "De De Pyaar 2",
+    "type": "movie",
+    "year": 2025,
+    "releaseYear": 2025,
+    "runtime": "120 min",
+    "duration": "120 min",
+    "ageRating": "13+",
+    "language": "Hindi",
+    "country": "India",
+
+    "poster": "/explore_files/de_de_pyaar_2.webp",
+    "backdrop": "/explore_files/de_de_pyaar_2.webp",
+
+    "director": "Akiv Ali",
+    "writers": ["Luv Ranjan"],
+    "showrunner": "",
+
+    "genres": ["Romance", "Comedy", "Drama"],
+
+    "overview": "Sequel to De De Pyaar De, exploring complex modern relationships with humor and emotion.",
+
+    "trailerUrl": "https://www.youtube.com/urldummy",
+
+    "cast": [
+      { "name": "Ajay Devgn", "role": "Lead", "photo": "/explore_files/de_de_pyaar_2.webp" },
+      { "name": "Rakul Preet Singh", "role": "Lead", "photo": "/explore_files/de_de_pyaar_2.webp" },
+      { "name": "Tabu", "role": "Lead", "photo": "/explore_files/de_de_pyaar_2.webp" }
+    ],
+
+    "crew": [
+      { "name": "Akiv Ali", "job": "Director", "photo": "/explore_files/de_de_pyaar_2.webp" },
+      { "name": "Luv Ranjan", "job": "Writer", "photo": "/explore_files/de_de_pyaar_2.webp" }
+    ],
+
+    "vibe": { "Romance": 40, "Comedy": 35, "Drama": 25 },
+
+    "moctaleMeter": {
+      "score": 78,
+      "votes": 240,
+      "categories": {
+        "Go for it": 60,
+        "Timepass": 30,
+        "Skip": 5,
+        "Perfection": 5
+      }
+    },
+
+    "tickets": [],
+    "reviews": []
+  },
+
+  {
+    "slug": "tere-ishq-mein-2025",
+    "title": "Tere Ishq Mein",
+    "type": "movie",
+    "year": 2025,
+    "releaseYear": 2025,
+    "runtime": "N/A",
+    "duration": "N/A",
+    "ageRating": "13+",
+    "language": "Hindi",
+    "country": "India",
+
+    "poster": "/explore_files/tere_ishq_mein.webp",
+    "backdrop": "/explore_files/tere_ishq_mein.webp",
+
+    "director": "Aanand L. Rai",
+    "writers": ["Himanshu Sharma"],
+    "showrunner": "",
+
+    "genres": ["Romance", "Drama"],
+
+    "overview": "A romantic journey filled with love, longing and emotional conflict.",
+
+    "trailerUrl": "https://www.youtube.com/urldummy",
+
+    "cast": [
+      { "name": "Dhanush", "role": "Lead", "photo": "/explore_files/tere_ishq_mein.webp" }
+    ],
+
+    "crew": [
+      { "name": "Aanand L. Rai", "job": "Director", "photo": "/explore_files/tere_ishq_mein.webp" }
+    ],
+
+    "vibe": { "Romance": 60, "Drama": 40 },
+
+    "moctaleMeter": {
+      "score": 74,
+      "votes": 180,
+      "categories": {
+        "Go for it": 50,
+        "Timepass": 35,
+        "Skip": 10,
+        "Perfection": 5
+      }
+    },
+
+    "tickets": [],
+    "reviews": []
+  },
+
+  {
+    "slug": "barakamon-2014",
+    "title": "Barakamon",
+    "type": "series",
+    "year": 2014,
+    "releaseYear": 2014,
+    "runtime": "24 min",
+    "duration": "24 min / episode",
+    "ageRating": "13+",
+    "language": "Japanese",
+    "country": "Japan",
+
+    "poster": "/explore_files/barakamon.webp",
+    "backdrop": "/explore_files/barakamon.webp",
+
+    "director": "Masaki Tachibana",
+    "writers": ["Satsuki Yoshino"],
+
+    "genres": ["Slice of Life", "Comedy"],
+
+    "overview": "A professional calligrapher finds inspiration and purpose after moving to a rural island.",
+
+    "trailerUrl": "https://www.youtube.com/urldummy",
+
+    "cast": [
+      { "name": "Daisuke Ono", "role": "Seishu Handa", "photo": "/explore_files/barakamon.webp" }
+    ],
+
+    "crew": [
+      { "name": "Masaki Tachibana", "job": "Director", "photo": "/explore_files/barakamon.webp" }
+    ],
+
+    "vibe": { "Wholesome": 50, "Comedy": 30, "Warm": 20 },
+
+    "moctaleMeter": {
+      "score": 90,
+      "votes": 1200,
+      "categories": {
+        "Go for it": 80,
+        "Timepass": 15,
+        "Skip": 3,
+        "Perfection": 2
+      }
+    },
+
+    "tickets": [],
+    "reviews": []
+  },
+
+  {
+    "slug": "kaantha-2025",
+    "title": "Kaantha",
+    "type": "movie",
+    "year": 2025,
+    "releaseYear": 2025,
+    "runtime": "N/A",
+    "duration": "N/A",
+    "ageRating": "16+",
+    "language": "Tamil",
+    "country": "India",
+
+    "poster": "/explore_files/kaantha.webp",
+    "backdrop": "/explore_files/kaantha.webp",
+
+    "director": "National Award Winning Director TBA",
+    "writers": ["TBA"],
+
+    "genres": ["Drama", "Thriller"],
+
+    "overview": "An emotional thriller starring Dhanush, exploring raw human emotions and intense drama.",
+
+    "trailerUrl": "https://www.youtube.com/urldummy",
+
+    "cast": [
+      { "name": "Dhanush", "role": "Lead", "photo": "/explore_files/kaantha.webp" }
+    ],
+
+    "crew": [
+      { "name": "TBA", "job": "Writer", "photo": "/explore_files/kaantha.webp" }
+    ],
+
+    "vibe": { "Dark": 50, "Drama": 30, "Thriller": 20 },
+
+    "moctaleMeter": {
+      "score": 82,
+      "votes": 340,
+      "categories": {
+        "Go for it": 65,
+        "Timepass": 25,
+        "Skip": 5,
+        "Perfection": 5
+      }
+    },
+
+    "tickets": [],
+    "reviews": []
+  },
+
+  {
+    "slug": "predator-badlands-2025",
+    "title": "Predator: Badlands",
+    "type": "movie",
+    "year": 2025,
+    "releaseYear": 2025,
+    "runtime": "N/A",
+    "duration": "N/A",
+    "ageRating": "16+",
+    "language": "English",
+    "country": "USA",
+
+    "poster": "/explore_files/badlands.webp",
+    "backdrop": "/explore_files/badlands.webp",
+
+    "director": "Dan Trachtenberg",
+    "writers": ["Patrick Aison"],
+
+    "genres": ["Sci-Fi", "Action"],
+
+    "overview": "A new chapter in the Predator saga, set in the harsh Badlands with intense action.",
+
+    "trailerUrl": "https://www.youtube.com/urldummy",
+
+    "cast": [
+      { "name": "TBA", "role": "Lead", "photo": "/explore_files/badlands.webp" }
+    ],
+
+    "crew": [
+      { "name": "Dan Trachtenberg", "job": "Director", "photo": "/explore_files/badlands.webp" }
+    ],
+
+    "vibe": { "Action": 50, "Sci-Fi": 30, "Suspense": 20 },
+
+    "moctaleMeter": {
+      "score": 84,
+      "votes": 410,
+      "categories": {
+        "Go for it": 70,
+        "Timepass": 20,
+        "Skip": 5,
+        "Perfection": 5
+      }
+    },
+
+    "tickets": [],
+    "reviews": []
+  }
+
+  ,
+
+  {
+  "slug": "laalo-krishna-2025",
+  "title": "Laalo Krishna",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "142 min",
+  "duration": "142 min",
+  "ageRating": "13+",
+  "language": "Kannada",
+  "country": "India",
+
+  "poster": "/explore_files/laalo.webp",
+  "backdrop": "/explore_files/laalo.webp",
+
+  "director": "Goravara Raj",
+  "writers": ["Goravara Raj"],
+
+  "genres": ["Drama", "Action"],
+
+  "overview": "Laalo: Krishna Sada Sahaayate follows Krishna on an emotional journey through faith, loyalty, and duty.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Krishnna", "role": "Lead", "photo": "/explore_files/laalo.webp" }
+  ],
+
+  "crew": [
+    { "name": "Goravara Raj", "job": "Director", "photo": "/explore_files/laalo.webp" }
+  ],
+
+  "vibe": { "Drama": 45, "Action": 35, "Emotion": 20 },
+
+  "moctaleMeter": {
+    "score": 80,
+    "votes": 312,
+    "categories": {
+      "Go for it": 65,
+      "Timepass": 25,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "delhi-crime-3-2025",
+  "title": "Delhi Crime 3",
+  "type": "series",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "50m",
+  "duration": "50m",
+  "ageRating": "18+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/explore_files/delhi_crime.webp",
+  "backdrop": "/explore_files/delhi_crime.webp",
+
+  "director": "Richie Mehta",
+  "writers": ["Richie Mehta"],
+  "showrunner": "Richie Mehta",
+
+  "genres": ["Crime", "Thriller"],
+
+  "overview": "DCP Vartika faces a new wave of crimes in Delhi, tackling an intense connected investigation.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Shefali Shah", "role": "DCP Vartika Chaturvedi", "photo": "/explore_files/delhi_crime.webp" },
+    { "name": "Rasika Dugal", "role": "Neeti Singh", "photo": "/explore_files/delhi_crime.webp" }
+  ],
+
+  "crew": [
+    { "name": "Richie Mehta", "job": "Director", "photo": "/explore_files/delhi_crime.webp" }
+  ],
+
+  "vibe": { "Dark": 40, "Realism": 30, "Mystery": 20, "Thriller": 10 },
+
+  "moctaleMeter": {
+    "score": 40,
+    "votes": 248,
+    "categories": {
+      "Go for it": 40,
+      "Timepass": 35,
+      "Skip": 15,
+      "Perfection": 10
+    }
+  },
+
+  "tickets": [
+    { "name": "Netflix", "url": "https://netflix.com" }
+  ],
+
+  "reviews": []
+},
+{
+  "slug": "frankenstein-2025",
+  "title": "Frankenstein",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "122 min",
+  "duration": "122 min",
+  "ageRating": "16+",
+  "language": "English",
+  "country": "UK",
+
+  "poster": "/explore_files/frankenstein.webp",
+  "backdrop": "/explore_files/frankenstein_banner.webp",
+
+  "director": "James Wan",
+  "writers": ["Mary Shelley"],
+
+  "genres": ["Horror", "Sci-Fi"],
+
+  "overview": "A modern retelling exploring creation, humanity, and the horror of obsession.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Scientist", "photo": "/explore_files/frankenstein.webp" }
+  ],
+
+  "crew": [
+    { "name": "James Wan", "job": "Director", "photo": "/explore_files/frankenstein.webp" }
+  ],
+
+  "vibe": { "Dark": 40, "Sci-Fi": 40, "Drama": 20 },
+
+  "moctaleMeter": {
+    "score": 68,
+    "votes": 400,
+    "categories": {
+      "Go for it": 35,
+      "Timepass": 40,
+      "Skip": 12,
+      "Perfection": 13
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "now-you-see-me-2013",
+  "title": "Now You See Me",
+  "type": "movie",
+  "year": 2013,
+  "releaseYear": 2013,
+  "runtime": "115 min",
+  "duration": "115 min",
+  "ageRating": "13+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/explore_files/now_you_see_me.webp",
+  "backdrop": "/explore_files/now_you_see_me.webp",
+
+  "director": "Louis Leterrier",
+  "writers": ["Ed Solomon", "Boaz Yakin"],
+
+  "genres": ["Thriller", "Mystery", "Heist"],
+
+  "overview": "A team of illusionists pull off bank heists during their performances and reward their audiences with the money.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Jesse Eisenberg", "role": "J. Daniel Atlas", "photo": "/explore_files/now_you_see_me.webp" },
+    { "name": "Mark Ruffalo", "role": "Dylan Rhodes", "photo": "/explore_files/now_you_see_me.webp" }
+  ],
+
+  "crew": [
+    { "name": "Louis Leterrier", "job": "Director", "photo": "/explore_files/now_you_see_me.webp" }
+  ],
+
+  "vibe": { "Thriller": 45, "Mystery": 35, "Heist": 20 },
+
+  "moctaleMeter": {
+    "score": 89,
+    "votes": 5500,
+    "categories": {
+      "Go for it": 75,
+      "Timepass": 20,
+      "Skip": 3,
+      "Perfection": 2
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "pluribus-2025",
+  "title": "Pluribus",
+  "type": "series",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "45m",
+  "duration": "45m",
+  "ageRating": "18+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/explore_files/pluribus.webp",
+  "backdrop": "/explore_files/pluribus.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Sci-Fi", "Thriller"],
+
+  "overview": "A futuristic thriller exploring identity, AI, and the boundaries of human consciousness.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Protagonist", "photo": "/explore_files/pluribus.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/explore_files/pluribus.webp" }
+  ],
+
+  "vibe": { "Sci-Fi": 50, "Thriller": 30, "Mystery": 20 },
+
+  "moctaleMeter": {
+    "score": 72,
+    "votes": 310,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 35,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "parking-2023",
+  "title": "Parking",
+  "type": "movie",
+  "year": 2023,
+  "releaseYear": 2023,
+  "runtime": "105 min",
+  "duration": "105 min",
+  "ageRating": "16+",
+  "language": "Tamil",
+  "country": "India",
+
+  "poster": "/explore_files/parking.webp",
+  "backdrop": "/explore_files/parking.webp",
+
+  "director": "Ramkumar Balakrishnan",
+  "writers": ["Ramkumar Balakrishnan"],
+
+  "genres": ["Thriller", "Drama"],
+
+  "overview": "Two families clash over a parking space, leading to ego battles and intense confrontations.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Harish Kalyan", "role": "Lead", "photo": "/explore_files/parking.webp" },
+    { "name": "Indhuja Ravichandran", "role": "Lead", "photo": "/explore_files/parking.webp" }
+  ],
+
+  "crew": [
+    { "name": "Ramkumar Balakrishnan", "job": "Director", "photo": "/explore_files/parking.webp" }
+  ],
+
+  "vibe": { "Drama": 50, "Thriller": 30, "Dark": 20 },
+
+  "moctaleMeter": {
+    "score": 88,
+    "votes": 900,
+    "categories": {
+      "Go for it": 75,
+      "Timepass": 20,
+      "Skip": 3,
+      "Perfection": 2
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+}
+,
+{
+  "slug": "the-leftovers-2014",
+  "title": "The Leftovers",
+  "type": "series",
+  "year": 2014,
+  "releaseYear": 2014,
+  "runtime": "55m",
+  "duration": "55m",
+  "ageRating": "18+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/explore_files/the_leftovers.webp",
+  "backdrop": "/explore_files/the_leftovers.webp",
+
+  "director": "Mimi Leder",
+  "writers": ["Damon Lindelof", "Tom Perrotta"],
+  "showrunner": "Damon Lindelof",
+
+  "genres": ["Drama", "Mystery", "Supernatural"],
+
+  "overview": "A global event causes 2% of the world's population to disappear, leaving the survivors to grapple with the inexplicable aftermath.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Justin Theroux", "role": "Kevin Garvey", "photo": "/explore_files/the_leftovers.webp" },
+    { "name": "Carrie Coon", "role": "Nora Durst", "photo": "/explore_files/the_leftovers.webp" }
+  ],
+
+  "crew": [
+    { "name": "Damon Lindelof", "job": "Showrunner", "photo": "/explore_files/the_leftovers.webp" }
+  ],
+
+  "vibe": { "Mystery": 40, "Drama": 40, "Dark": 20 },
+
+  "moctaleMeter": {
+    "score": 95,
+    "votes": 12000,
+    "categories": {
+      "Go for it": 85,
+      "Timepass": 10,
+      "Skip": 3,
+      "Perfection": 2
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "captain-fantastic-2016",
+  "title": "Captain Fantastic",
+  "type": "movie",
+  "year": 2016,
+  "releaseYear": 2016,
+  "runtime": "118 min",
+  "duration": "118 min",
+  "ageRating": "16+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/explore_files/captain_fantastic.webp",
+  "backdrop": "/explore_files/captain_fantastic.webp",
+
+  "director": "Matt Ross",
+  "writers": ["Matt Ross"],
+
+  "genres": ["Drama", "Adventure"],
+
+  "overview": "A devoted father raising his six children off-the-grid is forced to bring them into the real world.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Viggo Mortensen", "role": "Ben", "photo": "/explore_files/captain_fantastic.webp" },
+    { "name": "George MacKay", "role": "Bodevan", "photo": "/explore_files/captain_fantastic.webp" }
+  ],
+
+  "crew": [
+    { "name": "Matt Ross", "job": "Director", "photo": "/explore_files/captain_fantastic.webp" }
+  ],
+
+  "vibe": { "Emotional": 40, "Drama": 40, "Adventure": 20 },
+
+  "moctaleMeter": {
+    "score": 92,
+    "votes": 5600,
+    "categories": {
+      "Go for it": 80,
+      "Timepass": 15,
+      "Skip": 3,
+      "Perfection": 2
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "pans-labyrinth-2006",
+  "title": "Pan's Labyrinth",
+  "type": "movie",
+  "year": 2006,
+  "releaseYear": 2006,
+  "runtime": "118 min",
+  "duration": "118 min",
+  "ageRating": "16+",
+  "language": "Spanish",
+  "country": "Mexico",
+
+  "poster": "/explore_files/pan-labyrinth.webp",
+  "backdrop": "/explore_files/pan-labyrinth.webp",
+
+  "director": "Guillermo del Toro",
+  "writers": ["Guillermo del Toro"],
+
+  "genres": ["Fantasy", "Drama", "War"],
+
+  "overview": "A young girl escapes into a mythical world during post-Civil War Spain while facing harsh realities at home.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Ivana Baquero", "role": "Ofelia", "photo": "/explore_files/pan-labyrinth.webp" }
+  ],
+
+  "crew": [
+    { "name": "Guillermo del Toro", "job": "Director", "photo": "/explore_files/pan-labyrinth.webp" }
+  ],
+
+  "vibe": { "Dark": 40, "Fantasy": 40, "Drama": 20 },
+
+  "moctaleMeter": {
+    "score": 97,
+    "votes": 8000,
+    "categories": {
+      "Go for it": 85,
+      "Timepass": 10,
+      "Skip": 3,
+      "Perfection": 2
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "baramulla-2025",
+  "title": "Baramulla",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "N/A",
+  "duration": "N/A",
+  "ageRating": "16+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/explore_files/baramulla.webp",
+  "backdrop": "/explore_files/baramulla.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Thriller"],
+
+  "overview": "A tense thriller set in the town of Baramulla, focusing on crime, mystery, and high-stakes drama.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Lead", "photo": "/explore_files/baramulla.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/explore_files/baramulla.webp" }
+  ],
+
+  "vibe": { "Thriller": 60, "Dark": 25, "Mystery": 15 },
+
+  "moctaleMeter": {
+    "score": 70,
+    "votes": 200,
+    "categories": {
+      "Go for it": 50,
+      "Timepass": 30,
+      "Skip": 15,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "fruits-basket-prelude-2022",
+  "title": "Fruits Basket: Prelude",
+  "type": "movie",
+  "year": 2022,
+  "releaseYear": 2022,
+  "runtime": "88 min",
+  "duration": "88 min",
+  "ageRating": "13+",
+  "language": "Japanese",
+  "country": "Japan",
+
+  "poster": "/explore_files/fruits_basket.webp",
+  "backdrop": "/explore_files/fruits_basket.webp",
+
+  "director": "Yoshihide Ibata",
+  "writers": ["Natsuki Takaya"],
+
+  "genres": ["Romance", "Drama", "Anime"],
+
+  "overview": "A prequel exploring the love story of Kyoko and Katsuya, parents of Tohru Honda.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Miyuki Sawashiro", "role": "Kyoko Honda", "photo": "/explore_files/fruits_basket.webp" }
+  ],
+
+  "crew": [
+    { "name": "Yoshihide Ibata", "job": "Director", "photo": "/explore_files/fruits_basket.webp" }
+  ],
+
+  "vibe": { "Romance": 50, "Drama": 30, "Emotional": 20 },
+
+  "moctaleMeter": {
+    "score": 90,
+    "votes": 3000,
+    "categories": {
+      "Go for it": 80,
+      "Timepass": 15,
+      "Skip": 3,
+      "Perfection": 2
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "joram-2023",
+  "title": "Joram",
+  "type": "movie",
+  "year": 2023,
+  "releaseYear": 2023,
+  "runtime": "134 min",
+  "duration": "134 min",
+  "ageRating": "16+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/explore_files/joram.webp",
+  "backdrop": "/explore_files/joram.webp",
+
+  "director": "Devashish Makhija",
+  "writers": ["Devashish Makhija"],
+
+  "genres": ["Thriller", "Drama"],
+
+  "overview": "A desperate man on the run fights for survival with his infant daughter, pursued relentlessly by the law.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Manoj Bajpayee", "role": "Lead", "photo": "/explore_files/joram.webp" }
+  ],
+
+  "crew": [
+    { "name": "Devashish Makhija", "job": "Director", "photo": "/explore_files/joram.webp" }
+  ],
+
+  "vibe": { "Thriller": 45, "Drama": 35, "Dark": 20 },
+
+  "moctaleMeter": {
+    "score": 88,
+    "votes": 2100,
+    "categories": {
+      "Go for it": 75,
+      "Timepass": 20,
+      "Skip": 3,
+      "Perfection": 2
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "mahanati-2023",
+  "title": "Mahanati",
+  "type": "movie",
+  "year": 2018,
+  "releaseYear": 2018,
+  "runtime": "177 min",
+  "duration": "177 min",
+  "ageRating": "13+",
+  "language": "Telugu",
+  "country": "India",
+
+  "poster": "/explore_files/mahanati.webp",
+  "backdrop": "/explore_files/mahanati.webp",
+
+  "director": "Nag Ashwin",
+  "writers": ["Sai Madhav Burra", "Nag Ashwin"],
+
+  "genres": ["Biography", "Drama"],
+
+  "overview": "The biopic of legendary actress Savitri, depicting her meteoric rise and tragic downfall.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Keerthy Suresh", "role": "Savitri", "photo": "/explore_files/mahanati.webp" },
+    { "name": "Dulquer Salmaan", "role": "Gemini Ganesan", "photo": "/explore_files/mahanati.webp" }
+  ],
+
+  "crew": [
+    { "name": "Nag Ashwin", "job": "Director", "photo": "/explore_files/mahanati.webp" }
+  ],
+
+  "vibe": { "Drama": 50, "Biography": 35, "Emotional": 15 },
+
+  "moctaleMeter": {
+    "score": 94,
+    "votes": 5000,
+    "categories": {
+      "Go for it": 85,
+      "Timepass": 10,
+      "Skip": 3,
+      "Perfection": 2
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "air-2023",
+  "title": "AIR",
+  "type": "movie",
+  "year": 2023,
+  "releaseYear": 2023,
+  "runtime": "112 min",
+  "duration": "112 min",
+  "ageRating": "13+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/explore_files/air.webp",
+  "backdrop": "/explore_files/air.webp",
+
+  "director": "Ben Affleck",
+  "writers": ["Alex Convery"],
+
+  "genres": ["Drama", "Sports"],
+
+  "overview": "The story behind the game-changing Nike deal that created the Air Jordan brand.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Matt Damon", "role": "Sonny Vaccaro", "photo": "/explore_files/air.webp" },
+    { "name": "Ben Affleck", "role": "Phil Knight", "photo": "/explore_files/air.webp" }
+  ],
+
+  "crew": [
+    { "name": "Ben Affleck", "job": "Director", "photo": "/explore_files/air.webp" }
+  ],
+
+  "vibe": { "Drama": 50, "Sports": 30, "Business": 20 },
+
+  "moctaleMeter": {
+    "score": 92,
+    "votes": 3500,
+    "categories": {
+      "Go for it": 80,
+      "Timepass": 15,
+      "Skip": 3,
+      "Perfection": 2
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+}
+,
+{
+  "slug": "last-samurai-standing-2025",
+  "title": "Last Samurai Standing",
+  "type": "series",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "45m",
+  "duration": "45m",
+  "ageRating": "16+",
+  "language": "Japanese",
+  "country": "Japan",
+
+  "poster": "/schedule_files/released/last_samurai.webp",
+  "backdrop": "/schedule_files/released/last_samurai.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Action", "Drama", "Historical"],
+
+  "overview": "A lone samurai stands against political betrayal and rising chaos in feudal Japan.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Samurai", "photo": "/schedule_files/released/last_samurai.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/released/last_samurai.webp" }
+  ],
+
+  "vibe": { "Action": 50, "Drama": 30, "Intensity": 20 },
+
+  "moctaleMeter": {
+    "score": 82,
+    "votes": 210,
+    "categories": {
+      "Go for it": 60,
+      "Timepass": 30,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "nishaanchi-2025",
+  "title": "Nishaanchi",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "139 min",
+  "duration": "139 min",
+  "ageRating": "16+",
+  "language": "Kannada",
+  "country": "India",
+
+  "poster": "/schedule_files/released/nishaanchi2.webp",
+  "backdrop": "/schedule_files/released/nishaanchi2.webp",
+
+  "director": "Guru Deshpande",
+  "writers": ["Guru Deshpande"],
+
+  "genres": ["Action", "Thriller"],
+
+  "overview": "An intense revenge drama rooted in the world of crime and family loyalty.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Prajwal Devaraj", "role": "Hero", "photo": "/schedule_files/released/nishaanchi2.webp" }
+  ],
+
+  "crew": [
+    { "name": "Guru Deshpande", "job": "Director", "photo": "/schedule_files/released/nishaanchi2.webp" }
+  ],
+
+  "vibe": { "Action": 55, "Thriller": 30, "Drama": 15 },
+
+  "moctaleMeter": {
+    "score": 79,
+    "votes": 430,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 30,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "jigris-2025",
+  "title": "Jigris",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "128 min",
+  "duration": "128 min",
+  "ageRating": "16+",
+  "language": "Kannada",
+  "country": "India",
+
+  "poster": "/schedule_files/released/jigris.webp",
+  "backdrop": "/schedule_files/released/jigris.webp",
+
+  "director": "Aravind Kuplikar",
+  "writers": ["Aravind Kuplikar"],
+
+  "genres": ["Drama", "Action"],
+
+  "overview": "A gritty story of survival and vengeance set against political tension.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Vijay Raghavendra", "role": "Lead", "photo": "/schedule_files/released/jigris.webp" }
+  ],
+
+  "crew": [
+    { "name": "Aravind Kuplikar", "job": "Director", "photo": "/schedule_files/released/jigris.webp" }
+  ],
+
+  "vibe": { "Drama": 50, "Action": 35, "Intensity": 15 },
+
+  "moctaleMeter": {
+    "score": 81,
+    "votes": 290,
+    "categories": {
+      "Go for it": 58,
+      "Timepass": 25,
+      "Skip": 10,
+      "Perfection": 7
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "2020-delhi-2025",
+  "title": "2020 Delhi",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "134 min",
+  "duration": "134 min",
+  "ageRating": "18+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/schedule_files/released/2020_delhi.webp",
+  "backdrop": "/schedule_files/released/2020_delhi.webp",
+
+  "director": "Prince Dhiman",
+  "writers": ["Prince Dhiman"],
+
+  "genres": ["Crime", "Drama", "Political"],
+
+  "overview": "A gripping political crime drama based on true events in the capital.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Investigator", "photo": "/schedule_files/released/2020_delhi.webp" }
+  ],
+
+  "crew": [
+    { "name": "Prince Dhiman", "job": "Director", "photo": "/schedule_files/released/2020_delhi.webp" }
+  ],
+
+  "vibe": { "Drama": 45, "Crime": 35, "Political": 20 },
+
+  "moctaleMeter": {
+    "score": 76,
+    "votes": 340,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 30,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "agra-2025",
+  "title": "Agra",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "110 min",
+  "duration": "110 min",
+  "ageRating": "16+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/schedule_files/released/agra.webp",
+  "backdrop": "/schedule_files/released/agra.webp",
+
+  "director": "Kanu Behl",
+  "writers": ["Kanu Behl"],
+
+  "genres": ["Drama"],
+
+  "overview": "A powerful drama exploring identity, relationships and emotional complexities.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Mohit Agarwal", "role": "Guru", "photo": "/schedule_files/released/agra.webp" }
+  ],
+
+  "crew": [
+    { "name": "Kanu Behl", "job": "Director", "photo": "/schedule_files/released/agra.webp" }
+  ],
+
+  "vibe": { "Drama": 70, "Realism": 20, "Intensity": 10 },
+
+  "moctaleMeter": {
+    "score": 88,
+    "votes": 440,
+    "categories": {
+      "Go for it": 68,
+      "Timepass": 22,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+}
+,
+{
+  "slug": "christmas-karma-2025",
+  "title": "Christmas Karma",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "128 min",
+  "duration": "128 min",
+  "ageRating": "13+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/schedule_files/released/ChristmasKarma.webp",
+  "backdrop": "/schedule_files/released/ChristmasKarma.webp",
+
+  "director": "Manoj Chandrasekaran",
+  "writers": ["Manoj Chandrasekaran"],
+
+  "genres": ["Drama", "Fantasy"],
+
+  "overview": "A magical Christmas tale where karma intertwines with destiny as lives take unexpected turns.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Jiya Shankar", "role": "Lead", "photo": "/schedule_files/released/ChristmasKarma.webp" }
+  ],
+
+  "crew": [
+    { "name": "Manoj Chandrasekaran", "job": "Director", "photo": "/schedule_files/released/ChristmasKarma.webp" }
+  ],
+
+  "vibe": { "Fantasy": 40, "Drama": 40, "Emotional": 20 },
+
+  "moctaleMeter": {
+    "score": 79,
+    "votes": 280,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 30,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "in-your-dreams-2025",
+  "title": "In Your Dreams",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "106 min",
+  "duration": "106 min",
+  "ageRating": "13+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/schedule_files/released/InYourDreams.webp",
+  "backdrop": "/schedule_files/released/InYourDreams.webp",
+
+  "director": "Shakti Kiran",
+  "writers": ["Shakti Kiran"],
+
+  "genres": ["Romance", "Drama"],
+
+  "overview": "Two strangers connected by a mysterious dream find themselves living parallel emotional journeys.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Simran Choudhary", "role": "Lead", "photo": "/schedule_files/released/InYourDreams.webp" }
+  ],
+
+  "crew": [
+    { "name": "Shakti Kiran", "job": "Director", "photo": "/schedule_files/released/InYourDreams.webp" }
+  ],
+
+  "vibe": { "Romance": 45, "Drama": 35, "Emotional": 20 },
+
+  "moctaleMeter": {
+    "score": 77,
+    "votes": 190,
+    "categories": {
+      "Go for it": 52,
+      "Timepass": 33,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "jolly-3-2025",
+  "title": "Jolly LLB 3",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "N/A",
+  "duration": "N/A",
+  "ageRating": "13+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/schedule_files/released/jolly3.webp",
+  "backdrop": "/schedule_files/released/jolly3.webp",
+
+  "director": "Subhash Kapoor",
+  "writers": ["Subhash Kapoor"],
+
+  "genres": ["Comedy", "Courtroom", "Drama"],
+
+  "overview": "Jagdish Tyagi returns for another courtroom battle filled with humor, twists, and social commentary.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Akshay Kumar", "role": "Jolly", "photo": "/schedule_files/released/jolly3.webp" }
+  ],
+
+  "crew": [
+    { "name": "Subhash Kapoor", "job": "Director", "photo": "/schedule_files/released/jolly3.webp" }
+  ],
+
+  "vibe": { "Comedy": 40, "Drama": 35, "Courtroom": 25 },
+
+  "moctaleMeter": {
+    "score": 80,
+    "votes": 380,
+    "categories": {
+      "Go for it": 60,
+      "Timepass": 30,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "keeper-2025",
+  "title": "Keeper",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "109 min",
+  "duration": "109 min",
+  "ageRating": "16+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/schedule_files/released/keeper.webp",
+  "backdrop": "/schedule_files/released/keeper.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Thriller"],
+
+  "overview": "A mysterious guardian with a dark past must confront new dangers when fate tests him again.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Keeper", "photo": "/schedule_files/released/keeper.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/released/keeper.webp" }
+  ],
+
+  "vibe": { "Thriller": 55, "Mystery": 30, "Drama": 15 },
+
+  "moctaleMeter": {
+    "score": 74,
+    "votes": 225,
+    "categories": {
+      "Go for it": 50,
+      "Timepass": 35,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "kumki-2-2025",
+  "title": "Kumki 2",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "145 min",
+  "duration": "145 min",
+  "ageRating": "13+",
+  "language": "Tamil",
+  "country": "India",
+
+  "poster": "/schedule_files/released/kumki2.webp",
+  "backdrop": "/schedule_files/released/kumki2.webp",
+
+  "director": "Prabhu Solomon",
+  "writers": ["Prabhu Solomon"],
+
+  "genres": ["Adventure", "Drama"],
+
+  "overview": "A continuation of the bond between a mahout and his elephant, exploring deeper emotional connections.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Madhavan", "role": "Mahout", "photo": "/schedule_files/released/kumki2.webp" }
+  ],
+
+  "crew": [
+    { "name": "Prabhu Solomon", "job": "Director", "photo": "/schedule_files/released/kumki2.webp" }
+  ],
+
+  "vibe": { "Adventure": 40, "Drama": 40, "Emotional": 20 },
+
+  "moctaleMeter": {
+    "score": 78,
+    "votes": 260,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 30,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "love-otp-2025",
+  "title": "Love OTP",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "120 min",
+  "duration": "120 min",
+  "ageRating": "13+",
+  "language": "Kannada",
+  "country": "India",
+
+  "poster": "/schedule_files/released/loveotp.webp",
+  "backdrop": "/schedule_files/released/loveotp.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Romance", "Drama"],
+
+  "overview": "A young couple faces modern complications of love, trust, and identity in the digital age.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Hero", "photo": "/schedule_files/released/loveotp.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/released/loveotp.webp" }
+  ],
+
+  "vibe": { "Romance": 50, "Drama": 35, "Modern": 15 },
+
+  "moctaleMeter": {
+    "score": 75,
+    "votes": 190,
+    "categories": {
+      "Go for it": 53,
+      "Timepass": 32,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+}
+,
+{
+  "slug": "now-you-see-me-re2-2025",
+  "title": "Now You See Me (Re-release)",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "115 min",
+  "duration": "115 min",
+  "ageRating": "13+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/released/Nowyouseeme.webp",
+  "backdrop": "/schedule_files/released/Nowyouseeme.webp",
+
+  "director": "Louis Leterrier",
+  "writers": ["Ed Solomon", "Boaz Yakin"],
+
+  "genres": ["Thriller", "Mystery", "Heist"],
+
+  "overview": "Re-release of the iconic heist thriller featuring illusionists pulling off real-world robberies.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Jesse Eisenberg", "role": "J. Daniel Atlas", "photo": "/schedule_files/released/Nowyouseeme.webp" }
+  ],
+
+  "crew": [
+    { "name": "Louis Leterrier", "job": "Director", "photo": "/schedule_files/released/Nowyouseeme.webp" }
+  ],
+
+  "vibe": { "Thriller": 45, "Mystery": 35, "Heist": 20 },
+
+  "moctaleMeter": {
+    "score": 90,
+    "votes": 2500,
+    "categories": {
+      "Go for it": 75,
+      "Timepass": 20,
+      "Skip": 3,
+      "Perfection": 2
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "santhana-prapthi-rasthu-2025",
+  "title": "Santhana Prapthi Rasthu",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "148 min",
+  "duration": "148 min",
+  "ageRating": "16+",
+  "language": "Telugu",
+  "country": "India",
+
+  "poster": "/schedule_files/released/SanthanaPrapthirasthu.webp",
+  "backdrop": "/schedule_files/released/SanthanaPrapthirasthu.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Drama", "Family"],
+
+  "overview": "A family faces emotional and moral struggles while seeking divine intervention for parenthood.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Lead", "photo": "/schedule_files/released/SanthanaPrapthirasthu.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/released/SanthanaPrapthirasthu.webp" }
+  ],
+
+  "vibe": { "Family": 50, "Drama": 30, "Emotional": 20 },
+
+  "moctaleMeter": {
+    "score": 72,
+    "votes": 160,
+    "categories": {
+      "Go for it": 48,
+      "Timepass": 35,
+      "Skip": 12,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "spiderman-2025",
+  "title": "Spiderman",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "140 min",
+  "duration": "140 min",
+  "ageRating": "13+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/released/spiderman.webp",
+  "backdrop": "/schedule_files/released/spiderman.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Action", "Superhero"],
+
+  "overview": "A new Spiderman chapter featuring a darker villain arc and high-stakes emotional conflict.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Peter Parker", "photo": "/schedule_files/released/spiderman.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/released/spiderman.webp" }
+  ],
+
+  "vibe": { "Action": 50, "Superhero": 30, "Drama": 20 },
+
+  "moctaleMeter": {
+    "score": 82,
+    "votes": 480,
+    "categories": {
+      "Go for it": 60,
+      "Timepass": 30,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "spiderman-2-2025",
+  "title": "Spiderman 2",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "145 min",
+  "duration": "145 min",
+  "ageRating": "13+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/released/spiderman2.webp",
+  "backdrop": "/schedule_files/released/spiderman2.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Action", "Superhero"],
+
+  "overview": "Peter Parker faces a new existential crisis as a powerful enemy rises from the shadows.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Peter Parker", "photo": "/schedule_files/released/spiderman2.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/released/spiderman2.webp" }
+  ],
+
+  "vibe": { "Action": 55, "Superhero": 30, "Mystery": 15 },
+
+  "moctaleMeter": {
+    "score": 85,
+    "votes": 510,
+    "categories": {
+      "Go for it": 65,
+      "Timepass": 25,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "spiderman-3-2025",
+  "title": "Spiderman 3",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "148 min",
+  "duration": "148 min",
+  "ageRating": "13+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/released/spiderman3.webp",
+  "backdrop": "/schedule_files/released/spiderman3.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Action", "Superhero"],
+
+  "overview": "The web-slinger confronts his biggest threat yet in an explosive finale to the trilogy.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Peter Parker", "photo": "/schedule_files/released/spiderman3.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/released/spiderman3.webp" }
+  ],
+
+  "vibe": { "Action": 60, "Superhero": 25, "Drama": 15 },
+
+  "moctaleMeter": {
+    "score": 87,
+    "votes": 540,
+    "categories": {
+      "Go for it": 70,
+      "Timepass": 20,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "the-carpenters-son-2025",
+  "title": "The Carpenter's Son",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "118 min",
+  "duration": "118 min",
+  "ageRating": "13+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/released/TheCarpenterSon.webp",
+  "backdrop": "/schedule_files/released/TheCarpenterSon.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Drama"],
+
+  "overview": "A moving story about sacrifice, family, and finding purpose in unexpected places.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Son", "photo": "/schedule_files/released/TheCarpenterSon.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/released/TheCarpenterSon.webp" }
+  ],
+
+  "vibe": { "Drama": 65, "Emotional": 25, "Faith": 10 },
+
+  "moctaleMeter": {
+    "score": 74,
+    "votes": 200,
+    "categories": {
+      "Go for it": 52,
+      "Timepass": 33,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "trap-house-2025",
+  "title": "Trap House",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "136 min",
+  "duration": "136 min",
+  "ageRating": "18+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/released/TrapHouse.webp",
+  "backdrop": "/schedule_files/released/TrapHouse.webp",
+
+  "director": "Numa Perrier",
+  "writers": ["Numa Perrier"],
+
+  "genres": ["Thriller", "Crime"],
+
+  "overview": "A gripping crime thriller exploring the dangerous world of underground networks and survival instincts.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Detective", "photo": "/schedule_files/released/TrapHouse.webp" }
+  ],
+
+  "crew": [
+    { "name": "Numa Perrier", "job": "Director", "photo": "/schedule_files/released/TrapHouse.webp" }
+  ],
+
+  "vibe": { "Thriller": 50, "Crime": 35, "Dark": 15 },
+
+  "moctaleMeter": {
+    "score": 79,
+    "votes": 310,
+    "categories": {
+      "Go for it": 58,
+      "Timepass": 30,
+      "Skip": 7,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+}
+,
+{
+  "slug": "landman-2025",
+  "title": "Landman",
+  "type": "series",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "50m",
+  "duration": "50m",
+  "ageRating": "16+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/landman.webp",
+  "backdrop": "/schedule_files/upcoming/landman.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+  "showrunner": "TBA",
+
+  "genres": ["Drama", "Thriller"],
+
+  "overview": "A dramatic story set across the high-stakes world of land deals and political conflict.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Lead", "photo": "/schedule_files/upcoming/landman.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/landman.webp" }
+  ],
+
+  "vibe": { "Drama": 45, "Thriller": 35, "Intensity": 20 },
+
+  "moctaleMeter": {
+    "score": 72,
+    "votes": 180,
+    "categories": {
+      "Go for it": 50,
+      "Timepass": 35,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "champagne-problems-2025",
+  "title": "Champagne Problems",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "118 min",
+  "duration": "118 min",
+  "ageRating": "16+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/champagne_problems.webp",
+  "backdrop": "/schedule_files/upcoming/champagne_problems.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Drama", "Romance"],
+
+  "overview": "A romantic drama exploring complicated relationships set against a vibrant modern backdrop.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actress", "role": "Lead", "photo": "/schedule_files/upcoming/champagne_problems.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/champagne_problems.webp" }
+  ],
+
+  "vibe": { "Romance": 45, "Drama": 35, "Emotional": 20 },
+
+  "moctaleMeter": {
+    "score": 74,
+    "votes": 220,
+    "categories": {
+      "Go for it": 52,
+      "Timepass": 33,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "the-mighty-nein-2025",
+  "title": "The Mighty Nein",
+  "type": "series",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "45m",
+  "duration": "45m",
+  "ageRating": "16+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/the_mighty_nein.webp",
+  "backdrop": "/schedule_files/upcoming/the_mighty_nein.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+  "showrunner": "TBA",
+
+  "genres": ["Fantasy", "Adventure"],
+
+  "overview": "An epic fantasy adventure following a misfit group navigating dangerous magic and political power.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Mage", "photo": "/schedule_files/upcoming/the_mighty_nein.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/the_mighty_nein.webp" }
+  ],
+
+  "vibe": { "Fantasy": 50, "Adventure": 35, "Drama": 15 },
+
+  "moctaleMeter": {
+    "score": 78,
+    "votes": 240,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 30,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "the-death-of-bunny-m-2025",
+  "title": "The Death of Bunny M",
+  "type": "series",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "48m",
+  "duration": "48m",
+  "ageRating": "18+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/the_death_of_bunny_m.webp",
+  "backdrop": "/schedule_files/upcoming/the_death_of_bunny_m.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Thriller", "Mystery"],
+
+  "overview": "A chilling mystery unfolds after the disappearance of Bunny M, exposing secrets and lies.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actress", "role": "Detective", "photo": "/schedule_files/upcoming/the_death_of_bunny_m.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/the_death_of_bunny_m.webp" }
+  ],
+
+  "vibe": { "Thriller": 55, "Mystery": 30, "Dark": 15 },
+
+  "moctaleMeter": {
+    "score": 77,
+    "votes": 200,
+    "categories": {
+      "Go for it": 53,
+      "Timepass": 32,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "the-roses-2025",
+  "title": "The Roses",
+  "type": "series",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "52m",
+  "duration": "52m",
+  "ageRating": "16+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/the_roses.webp",
+  "backdrop": "/schedule_files/upcoming/the_roses.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Drama", "Family"],
+
+  "overview": "A family’s hidden secrets unravel as they are forced to confront their past and future.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Father", "photo": "/schedule_files/upcoming/the_roses.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/the_roses.webp" }
+  ],
+
+  "vibe": { "Drama": 55, "Family": 30, "Emotional": 15 },
+
+  "moctaleMeter": {
+    "score": 75,
+    "votes": 160,
+    "categories": {
+      "Go for it": 50,
+      "Timepass": 35,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "a-man-on-the-inside-2025",
+  "title": "A Man on the Inside",
+  "type": "series",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "47m",
+  "duration": "47m",
+  "ageRating": "18+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/a_man_on_the_inside.webp",
+  "backdrop": "/schedule_files/upcoming/a_man_on_the_inside.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Crime", "Drama"],
+
+  "overview": "An undercover agent infiltrates a dangerous criminal organization while battling his own moral conflicts.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Agent", "photo": "/schedule_files/upcoming/a_man_on_the_inside.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/a_man_on_the_inside.webp" }
+  ],
+
+  "vibe": { "Crime": 50, "Drama": 35, "Dark": 15 },
+
+  "moctaleMeter": {
+    "score": 78,
+    "votes": 210,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 30,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "nadu-center-2025",
+  "title": "Nadu Center",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "138 min",
+  "duration": "138 min",
+  "ageRating": "16+",
+  "language": "Tamil",
+  "country": "India",
+
+  "poster": "/schedule_files/upcoming/nadu_center.webp",
+  "backdrop": "/schedule_files/upcoming/nadu_center.webp",
+
+  "director": "Dummy Director",
+  "writers": ["Dummy Writer"],
+
+  "genres": ["Drama", "Thriller"],
+
+  "overview": "A gripping journey set in the heart of Nadu, exploring power, conflict, and justice.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Lead", "photo": "/schedule_files/upcoming/nadu_center.webp" }
+  ],
+
+  "crew": [
+    { "name": "Dummy Director", "job": "Director", "photo": "/schedule_files/upcoming/nadu_center.webp" }
+  ],
+
+  "vibe": { "Drama": 50, "Thriller": 30, "Intensity": 20 },
+
+  "moctaleMeter": {
+    "score": 73,
+    "votes": 170,
+    "categories": {
+      "Go for it": 50,
+      "Timepass": 35,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+}
+,
+{
+  "slug": "train-dreams-2025",
+  "title": "Train Dreams",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "120 min",
+  "duration": "120 min",
+  "ageRating": "13+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/train_dreams.webp",
+  "backdrop": "/schedule_files/upcoming/train_dreams.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Drama"],
+
+  "overview": "A poetic story of a man whose life transforms as he confronts dreams, memories, and destiny on a long train journey.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Lead", "photo": "/schedule_files/upcoming/train_dreams.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/train_dreams.webp" }
+  ],
+
+  "vibe": { "Drama": 60, "Emotional": 25, "Calm": 15 },
+
+  "moctaleMeter": {
+    "score": 72,
+    "votes": 150,
+    "categories": {
+      "Go for it": 50,
+      "Timepass": 35,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "rental-family-2025",
+  "title": "Rental Family",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "114 min",
+  "duration": "114 min",
+  "ageRating": "13+",
+  "language": "Tamil",
+  "country": "India",
+
+  "poster": "/schedule_files/upcoming/rental_family.webp",
+  "backdrop": "/schedule_files/upcoming/rental_family.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Comedy", "Drama"],
+
+  "overview": "A light-hearted drama about a man who hires a family for emotional support, leading to unexpected bonds.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Lead", "photo": "/schedule_files/upcoming/rental_family.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/rental_family.webp" }
+  ],
+
+  "vibe": { "Drama": 40, "Comedy": 40, "Family": 20 },
+
+  "moctaleMeter": {
+    "score": 76,
+    "votes": 190,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 32,
+      "Skip": 8,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "middle-class-2025",
+  "title": "Middle Class",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "118 min",
+  "duration": "118 min",
+  "ageRating": "13+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/schedule_files/upcoming/middle_class.webp",
+  "backdrop": "/schedule_files/upcoming/middle_class.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Comedy", "Drama"],
+
+  "overview": "A relatable comedy-drama highlighting the quirky struggles and joys of middle-class living.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actress", "role": "Mother", "photo": "/schedule_files/upcoming/middle_class.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/middle_class.webp" }
+  ],
+
+  "vibe": { "Comedy": 45, "Drama": 35, "Family": 20 },
+
+  "moctaleMeter": {
+    "score": 78,
+    "votes": 225,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 33,
+      "Skip": 7,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "mastiii-4-2025",
+  "title": "Mastiii 4",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "124 min",
+  "duration": "124 min",
+  "ageRating": "16+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/schedule_files/upcoming/mastiii_4.webp",
+  "backdrop": "/schedule_files/upcoming/mastiii_4.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Comedy"],
+
+  "overview": "The fourth installment of the popular adult-comedy series returns with more chaos, jokes, and outrageous humor.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Comic Lead", "photo": "/schedule_files/upcoming/mastiii_4.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/mastiii_4.webp" }
+  ],
+
+  "vibe": { "Comedy": 60, "Drama": 25, "Adult": 15 },
+
+  "moctaleMeter": {
+    "score": 70,
+    "votes": 140,
+    "categories": {
+      "Go for it": 48,
+      "Timepass": 37,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "bel-air-2025",
+  "title": "Bel-Air",
+  "type": "series",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "50m",
+  "duration": "50m",
+  "ageRating": "16+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/bel_air.webp",
+  "backdrop": "/schedule_files/upcoming/bel_air.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+  "showrunner": "TBA",
+
+  "genres": ["Drama"],
+
+  "overview": "The new season explores deeper conflicts in Will’s journey through privilege, identity, and family power dynamics.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Will", "photo": "/schedule_files/upcoming/bel_air.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/bel_air.webp" }
+  ],
+
+  "vibe": { "Drama": 55, "Youth": 30, "Emotional": 15 },
+
+  "moctaleMeter": {
+    "score": 80,
+    "votes": 260,
+    "categories": {
+      "Go for it": 60,
+      "Timepass": 30,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "wildcat-2025",
+  "title": "Wildcat",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "126 min",
+  "duration": "126 min",
+  "ageRating": "16+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/wildcat.webp",
+  "backdrop": "/schedule_files/upcoming/wildcat.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Thriller"],
+
+  "overview": "A survivor escapes into the wild, fighting nature and her past as she seeks redemption.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actress", "role": "Wildcat", "photo": "/schedule_files/upcoming/wildcat.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/wildcat.webp" }
+  ],
+
+  "vibe": { "Thriller": 50, "Outdoor": 30, "Survival": 20 },
+
+  "moctaleMeter": {
+    "score": 79,
+    "votes": 180,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 33,
+      "Skip": 7,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+}
+,
+{
+  "slug": "eternity-2025",
+  "title": "Eternity",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "130 min",
+  "duration": "130 min",
+  "ageRating": "13+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/eternity.webp",
+  "backdrop": "/schedule_files/upcoming/eternity.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Sci-Fi", "Drama"],
+
+  "overview": "A futuristic sci-fi drama exploring life, identity, and the quest for eternal consciousness.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Scientist", "photo": "/schedule_files/upcoming/eternity.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/eternity.webp" }
+  ],
+
+  "vibe": { "Sci-Fi": 45, "Drama": 35, "Mystery": 20 },
+
+  "moctaleMeter": {
+    "score": 78,
+    "votes": 210,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 33,
+      "Skip": 7,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "zootopia-2-2025",
+  "title": "Zootopia 2",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "110 min",
+  "duration": "110 min",
+  "ageRating": "7+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/zootopia_2.webp",
+  "backdrop": "/schedule_files/upcoming/zootopia_2.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Animation", "Adventure", "Family"],
+
+  "overview": "Judy Hopps and Nick Wilde return for another colorful mystery in the city of Zootopia.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Voice Actor", "role": "Nick Wilde (Voice)", "photo": "/schedule_files/upcoming/zootopia_2.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/zootopia_2.webp" }
+  ],
+
+  "vibe": { "Adventure": 40, "Comedy": 35, "Family": 25 },
+
+  "moctaleMeter": {
+    "score": 88,
+    "votes": 320,
+    "categories": {
+      "Go for it": 70,
+      "Timepass": 20,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "stranger-things-2025",
+  "title": "Stranger Things",
+  "type": "series",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "55m",
+  "duration": "55m",
+  "ageRating": "16+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/upcoming/stranger_things.webp",
+  "backdrop": "/schedule_files/upcoming/stranger_things.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+  "showrunner": "TBA",
+
+  "genres": ["Sci-Fi", "Horror", "Thriller"],
+
+  "overview": "The next chapter follows the aftermath of catastrophic events as the group faces their most dangerous threat yet.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Eleven", "photo": "/schedule_files/upcoming/stranger_things.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/stranger_things.webp" }
+  ],
+
+  "vibe": { "Sci-Fi": 40, "Thriller": 35, "Horror": 25 },
+
+  "moctaleMeter": {
+    "score": 84,
+    "votes": 410,
+    "categories": {
+      "Go for it": 60,
+      "Timepass": 30,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "kalamkaval-2025",
+  "title": "Kalamkaval",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "140 min",
+  "duration": "140 min",
+  "ageRating": "13+",
+  "language": "Malayalam",
+  "country": "India",
+
+  "poster": "/schedule_files/upcoming/kalamkaval.webp",
+  "backdrop": "/schedule_files/upcoming/kalamkaval.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Thriller", "Drama"],
+
+  "overview": "A high-stakes story set in a turbulent region where crime, politics, and human emotions collide.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Lead", "photo": "/schedule_files/upcoming/kalamkaval.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/kalamkaval.webp" }
+  ],
+
+  "vibe": { "Drama": 45, "Thriller": 35, "Intensity": 20 },
+
+  "moctaleMeter": {
+    "score": 76,
+    "votes": 190,
+    "categories": {
+      "Go for it": 53,
+      "Timepass": 32,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "ekaki-2025",
+  "title": "Ekaki",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "132 min",
+  "duration": "132 min",
+  "ageRating": "16+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/schedule_files/upcoming/ekaki.webp",
+  "backdrop": "/schedule_files/upcoming/ekaki.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Drama", "Thriller"],
+
+  "overview": "A lonely man’s life spirals into chaos as he gets entangled in a dangerous conspiracy.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actress", "role": "Lead", "photo": "/schedule_files/upcoming/ekaki.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/ekaki.webp" }
+  ],
+
+  "vibe": { "Drama": 55, "Thriller": 30, "Dark": 15 },
+
+  "moctaleMeter": {
+    "score": 75,
+    "votes": 200,
+    "categories": {
+      "Go for it": 52,
+      "Timepass": 33,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "hamnet-2025",
+  "title": "Hamnet",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "119 min",
+  "duration": "119 min",
+  "ageRating": "13+",
+  "language": "English",
+  "country": "UK",
+
+  "poster": "/schedule_files/upcoming/hamnet.webp",
+  "backdrop": "/schedule_files/upcoming/hamnet.webp",
+
+  "director": "TBA",
+  "writers": ["TBA"],
+
+  "genres": ["Drama", "Historical"],
+
+  "overview": "A historical drama inspired by Shakespeare’s son Hamnet and the emotional world around his untimely death.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Hamnet", "photo": "/schedule_files/upcoming/hamnet.webp" }
+  ],
+
+  "crew": [
+    { "name": "TBA", "job": "Director", "photo": "/schedule_files/upcoming/hamnet.webp" }
+  ],
+
+  "vibe": { "Drama": 55, "Historical": 30, "Emotional": 15 },
+
+  "moctaleMeter": {
+    "score": 77,
+    "votes": 210,
+    "categories": {
+      "Go for it": 54,
+      "Timepass": 31,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+}
+,
+{
+  "slug": "purushaha-2025",
+  "title": "Purushaha",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "140 min",
+  "duration": "140 min",
+  "ageRating": "16+",
+  "language": "Telugu",
+  "country": "India",
+
+  "poster": "/schedule_files/announced/purushaha.jpg",
+  "backdrop": "/schedule_files/announced/purushaha.jpg",
+
+  "director": "Veeru Vulavala",
+  "writers": ["Veeru Vulavala"],
+
+  "genres": ["Drama", "Action"],
+
+  "overview": "A powerful emotional journey exploring identity, masculinity, and inner strength.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Pawan Kalyan", "role": "Lead", "photo": "/schedule_files/announced/purushaha.jpg" }
+  ],
+
+  "crew": [
+    { "name": "Veeru Vulavala", "job": "Director", "photo": "/schedule_files/announced/purushaha.jpg" }
+  ],
+
+  "vibe": { "Drama": 50, "Action": 35, "Emotional": 15 },
+
+  "moctaleMeter": {
+    "score": 82,
+    "votes": 150,
+    "categories": {
+      "Go for it": 60,
+      "Timepass": 30,
+      "Skip": 5,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "abar-hawa-bodol-2025",
+  "title": "Abar Hawa Bodol",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "135 min",
+  "duration": "135 min",
+  "ageRating": "13+",
+  "language": "Bengali",
+  "country": "India",
+
+  "poster": "/schedule_files/announced/abar_hawa_bodol.jpg",
+  "backdrop": "/schedule_files/announced/abar_hawa_bodol.jpg",
+
+  "director": "Dummy Director",
+  "writers": ["Dummy Writer"],
+
+  "genres": ["Drama", "Family"],
+
+  "overview": "A Bengali family drama exploring relationships, misunderstandings, and reconciliation.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Lead", "photo": "/schedule_files/announced/abar_hawa_bodol.jpg" }
+  ],
+
+  "crew": [
+    { "name": "Dummy Director", "job": "Director", "photo": "/schedule_files/announced/abar_hawa_bodol.jpg" }
+  ],
+
+  "vibe": { "Drama": 55, "Family": 30, "Emotional": 15 },
+
+  "moctaleMeter": {
+    "score": 76,
+    "votes": 120,
+    "categories": {
+      "Go for it": 50,
+      "Timepass": 35,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "manithan-deivamagalam-2025",
+  "title": "Manithan Deivamagalam",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "142 min",
+  "duration": "142 min",
+  "ageRating": "13+",
+  "language": "Tamil",
+  "country": "India",
+
+  "poster": "/schedule_files/announced/manithan_deivamagalam.jpg",
+  "backdrop": "/schedule_files/announced/manithan_deivamagalam.jpg",
+
+  "director": "Dummy Director",
+  "writers": ["Dummy Writer"],
+
+  "genres": ["Drama", "Spiritual"],
+
+  "overview": "A spiritual drama that questions morality, humanity, and the journey toward enlightenment.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Lead", "photo": "/schedule_files/announced/manithan_deivamagalam.jpg" }
+  ],
+
+  "crew": [
+    { "name": "Dummy Director", "job": "Director", "photo": "/schedule_files/announced/manithan_deivamagalam.jpg" }
+  ],
+
+  "vibe": { "Drama": 50, "Spiritual": 30, "Emotional": 20 },
+
+  "moctaleMeter": {
+    "score": 72,
+    "votes": 110,
+    "categories": {
+      "Go for it": 48,
+      "Timepass": 35,
+      "Skip": 12,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "vijaynagarer-heere-2025",
+  "title": "Vijaynagarer Heere",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "128 min",
+  "duration": "128 min",
+  "ageRating": "13+",
+  "language": "Bengali",
+  "country": "India",
+
+  "poster": "/schedule_files/announced/vijaynagarer_heere.jpg",
+  "backdrop": "/schedule_files/announced/vijaynagarer_heere.jpg",
+
+  "director": "Dummy Director",
+  "writers": ["Dummy Writer"],
+
+  "genres": ["Adventure", "Drama"],
+
+  "overview": "A treasure hunt story set in Vijaynagar, mixing folklore, adventure, and family legacy.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Explorer", "photo": "/schedule_files/announced/vijaynagarer_heere.jpg" }
+  ],
+
+  "crew": [
+    { "name": "Dummy Director", "job": "Director", "photo": "/schedule_files/announced/vijaynagarer_heere.jpg" }
+  ],
+
+  "vibe": { "Adventure": 50, "Drama": 35, "Mystery": 15 },
+
+  "moctaleMeter": {
+    "score": 74,
+    "votes": 130,
+    "categories": {
+      "Go for it": 52,
+      "Timepass": 33,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "wolf-2025",
+  "title": "Wolf",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "125 min",
+  "duration": "125 min",
+  "ageRating": "18+",
+  "language": "English",
+  "country": "USA",
+
+  "poster": "/schedule_files/announced/wolf.jpg",
+  "backdrop": "/schedule_files/announced/wolf.jpg",
+
+  "director": "Paul Hyett",
+  "writers": ["Paul Hyett"],
+
+  "genres": ["Horror", "Thriller"],
+
+  "overview": "A chilling horror film following a group trapped with a mysterious and deadly predator.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "James Faulkner", "role": "Lead", "photo": "/schedule_files/announced/wolf.jpg" }
+  ],
+
+  "crew": [
+    { "name": "Paul Hyett", "job": "Director", "photo": "/schedule_files/announced/wolf.jpg" }
+  ],
+
+  "vibe": { "Horror": 55, "Thriller": 30, "Dark": 15 },
+
+  "moctaleMeter": {
+    "score": 80,
+    "votes": 200,
+    "categories": {
+      "Go for it": 60,
+      "Timepass": 28,
+      "Skip": 7,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "jockey-42-2025",
+  "title": "Jockey 42",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "121 min",
+  "duration": "121 min",
+  "ageRating": "13+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/schedule_files/announced/jockey_42.jpg",
+  "backdrop": "/schedule_files/announced/jockey_42.jpg",
+
+  "director": "Dummy Director",
+  "writers": ["Dummy Writer"],
+
+  "genres": ["Sports", "Drama"],
+
+  "overview": "A young jockey trains against all odds to rise as a national sports champion.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actor", "role": "Jockey", "photo": "/schedule_files/announced/jockey_42.jpg" }
+  ],
+
+  "crew": [
+    { "name": "Dummy Director", "job": "Director", "photo": "/schedule_files/announced/jockey_42.jpg" }
+  ],
+
+  "vibe": { "Sports": 50, "Drama": 35, "Inspiration": 15 },
+
+  "moctaleMeter": {
+    "score": 79,
+    "votes": 140,
+    "categories": {
+      "Go for it": 55,
+      "Timepass": 33,
+      "Skip": 7,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+},
+{
+  "slug": "saali-mohabbat-2025",
+  "title": "Saali Mohabbat",
+  "type": "movie",
+  "year": 2025,
+  "releaseYear": 2025,
+  "runtime": "118 min",
+  "duration": "118 min",
+  "ageRating": "13+",
+  "language": "Hindi",
+  "country": "India",
+
+  "poster": "/schedule_files/announced/saali_mohabbat.jpg",
+  "backdrop": "/schedule_files/announced/saali_mohabbat.jpg",
+
+  "director": "Dummy Director",
+  "writers": ["Dummy Writer"],
+
+  "genres": ["Romance", "Drama"],
+
+  "overview": "A complicated love story marked by passion, conflict, and surprising choices.",
+
+  "trailerUrl": "https://www.youtube.com/urldummy",
+
+  "cast": [
+    { "name": "Dummy Actress", "role": "Heroine", "photo": "/schedule_files/announced/saali_mohabbat.jpg" }
+  ],
+
+  "crew": [
+    { "name": "Dummy Director", "job": "Director", "photo": "/schedule_files/announced/saali_mohabbat.jpg" }
+  ],
+
+  "vibe": { "Romance": 50, "Drama": 35, "Emotional": 15 },
+
+  "moctaleMeter": {
+    "score": 76,
+    "votes": 180,
+    "categories": {
+      "Go for it": 52,
+      "Timepass": 33,
+      "Skip": 10,
+      "Perfection": 5
+    }
+  },
+
+  "tickets": [],
+  "reviews": []
+}
+
+]
