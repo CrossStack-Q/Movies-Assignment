@@ -5,12 +5,12 @@ import Image from "next/image";
 import VibeChart from "@/components/VibeChart";
 import Meter from "@/components/Meter";
 
-export default function MovieDetailClient({ movie }) {
+export default function MovieDetailClient({ movie }: { movie: any }) {
   const [open, setOpen] = useState(false);
 
   const heroSrc = movie.backdrop || movie.banner || movie.hero || movie.poster;
 
-  const getEmbedUrl = (url) => {
+  const getEmbedUrl = (url:any) => {
     if (!url) return null;
     const match = url.match(/(?:v=|\/)([0-9A-Za-z_-]{6,11})(?:\?|&|$)/);
     const id = match ? match[1] : null;
@@ -98,7 +98,7 @@ export default function MovieDetailClient({ movie }) {
             <p className="text-gray-700 dark:text-gray-300 leading-relaxed">{movie.overview}</p>
 
             <div className="mt-4 flex flex-wrap gap-2">
-              {(movie.genres || []).map((genre) => (
+              {(movie.genres || []).map((genre:any) => (
                 <span
                   key={genre}
                   className="px-3 py-1 rounded-full bg-black/10 dark:bg-white/10 text-gray-700 dark:text-gray-200 text-sm"
@@ -114,7 +114,7 @@ export default function MovieDetailClient({ movie }) {
 
             {movie.cast?.length > 0 ? (
               <div className="flex gap-6 overflow-x-auto pb-2">
-                {movie.cast.map((actor) => (
+                {movie.cast.map((actor:any) => (
                   <div key={actor.name} className="min-w-[110px] text-center">
                     <div className="w-24 h-24 rounded-full overflow-hidden mx-auto">
                       <Image
@@ -140,7 +140,7 @@ export default function MovieDetailClient({ movie }) {
 
             {movie.crew?.length > 0 ? (
               <div className="flex flex-wrap gap-10">
-                {movie.crew.map((person) => (
+                {movie.crew.map((person:any) => (
                   <div key={person.name}>
                     <div className="w-24 h-24 rounded-full overflow-hidden mx-auto">
                       <Image
@@ -176,7 +176,7 @@ export default function MovieDetailClient({ movie }) {
 
           <div className="p-6 rounded-xl bg-black/10 dark:bg-white/5">
             <h3 className="text-lg font-semibold mb-3">Tickets On</h3>
-            {(movie.tickets || []).map((t) => (
+            {(movie.tickets || []).map((t:any) => (
               <a
                 key={t.name}
                 href={t.url}

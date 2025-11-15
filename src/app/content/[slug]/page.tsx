@@ -1,5 +1,5 @@
 import React from "react";
-import MovieDetailClient from "./MovieDetailClient";
+import MovieDetailClient from "@/app/content/[slug]/MovieDetailClient";
 import movies from "@/data/movies.json"; 
 
 type Params = { params: { slug: string } };

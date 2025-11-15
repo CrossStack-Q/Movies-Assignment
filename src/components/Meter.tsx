@@ -23,7 +23,6 @@ export default function Meter({ data }: MeterProps) {
 
   const total = values.reduce((a, b) => a + b, 0) || 1;
 
-  const defaultLabel = labels[0];
   const defaultValue = Math.round((values[0] / total) * 100);
 
   const [hoverLabel, setHoverLabel] = useState<string | null>(null);
