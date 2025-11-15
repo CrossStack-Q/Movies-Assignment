@@ -11,7 +11,6 @@ type MeterProps = {
 };
 
 export default function Meter({ data }: MeterProps) {
-  // Extract categories OR default fallback
   const categories = data?.categories || {
     "Go for it": 40,
     Timepass: 35,
@@ -24,14 +23,11 @@ export default function Meter({ data }: MeterProps) {
 
   const total = values.reduce((a, b) => a + b, 0) || 1;
 
-  // Find top category for default center display
   const defaultLabel = labels[0];
   const defaultValue = Math.round((values[0] / total) * 100);
 
-  // Hover state
   const [hoverLabel, setHoverLabel] = useState<string | null>(null);
 
-  const centerLabel = hoverLabel || defaultLabel;
   const centerValue = hoverLabel
     ? Math.round(((categories[hoverLabel] || 0) / total) * 100)
     : defaultValue;
@@ -39,7 +35,7 @@ export default function Meter({ data }: MeterProps) {
   // Arc settings
   const radius = 160;
   const stroke = 26;
-  const circumference = Math.PI * radius; // Only half circle
+  const circumference = Math.PI * radius;
 
   let offsetAcc = 0;
   const arcs = labels.map((label) => {
@@ -53,18 +49,17 @@ export default function Meter({ data }: MeterProps) {
   });
 
   const colorMap = [
-    "#4ade80", // green
-    "#fbbf24", // yellow
-    "#f87171", // red
-    "#a78bfa", // purple
-    "#38bdf8", // blue (extra safety)
+    "#4ade80",
+    "#fbbf24",
+    "#f87171",
+    "#a78bfa", 
+    "#38bdf8", 
   ];
 
   return (
     <div className="w-full rounded-2xl">
 
       <div className="flex flex-col items-center justify-center">
-        {/* Semi-circle gauge */}
         <svg width="100%" height="200" viewBox="0 0 500 260">
           <g transform="translate(250,250) rotate(180)">
             {arcs.map((arc, i) => {
@@ -91,7 +86,6 @@ export default function Meter({ data }: MeterProps) {
           </g>
         </svg>
 
-        {/* Center Text */}
         <div className="text-center -mt-10">
   <p
     className="text-5xl font-bold transition-colors duration-200"
@@ -108,8 +102,6 @@ export default function Meter({ data }: MeterProps) {
     {data?.votes ? `${data.votes} Votes` : ""}
   </p>
 </div>
-
-        {/* Legend */}
         <div className="mt-12 flex flex-wrap justify-center gap-8">
           {labels.map((label, i) => {
             const pct = Math.round(((categories[label] || 0) / total) * 100);
