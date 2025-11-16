@@ -45,7 +45,7 @@ export default function MovieDetailClient({ movie }: { movie: any }) {
                 {movie.runtime || movie.duration}
               </p>
 
-              <h1 className="text-4xl sm:text-5xl font-extrabold leading-tight">
+              <h1 className="text-4xl sm:text-5xl font-extrabold leading-tight text-white">
                 {movie.title}
               </h1>
 
@@ -57,30 +57,30 @@ export default function MovieDetailClient({ movie }: { movie: any }) {
                   ▶ Play Trailer
                 </button>
 
-                <button className="px-5 py-2 rounded-full bg-white/20 dark:bg-black/20 hover:bg-white/30 dark:hover:bg-black/30 text-black dark:text-white font-medium">
+                <button className="px-5 py-2 rounded-full bg-white/20 dark:bg-black/20 hover:bg-white/30 dark:hover:bg-black/30 text-white font-medium">
                   Bookmark
                 </button>
               </div>
 
               <div className="mt-6 grid grid-cols-2 sm:grid-cols-4 gap-y-3 text-sm">
                 <div>
-                  <strong className="text-black dark:text-white">Director</strong>
-                  <div className="text-gray-800 dark:text-gray-300">{movie.director || "—"}</div>
+                  <strong className="text-white">Director</strong>
+                  <div className="text-gray-300">{movie.director || "—"}</div>
                 </div>
 
                 <div>
-                  <strong className="text-black dark:text-white">Country</strong>
-                  <div className="text-gray-800 dark:text-gray-300">{movie.country || "—"}</div>
+                  <strong className="text-white">Country</strong>
+                  <div className="text-gray-300">{movie.country || "—"}</div>
                 </div>
 
                 <div>
-                  <strong className="text-black dark:text-white">Language</strong>
-                  <div className="text-gray-800 dark:text-gray-300">{movie.language || "—"}</div>
+                  <strong className="text-white">Language</strong>
+                  <div className="text-gray-300">{movie.language || "—"}</div>
                 </div>
 
                 <div>
-                  <strong className="text-black dark:text-white">Age Rating</strong>
-                  <div className="text-gray-800 dark:text-gray-300">{movie.ageRating || "—"}</div>
+                  <strong className="text-white">Age Rating</strong>
+                  <div className="text-gray-300">{movie.ageRating || "—"}</div>
                 </div>
               </div>
             </div>
@@ -170,7 +170,7 @@ export default function MovieDetailClient({ movie }: { movie: any }) {
         
         <aside className="space-y-8">
 
-          <div className="p-6 rounded-xl bg-black/10 dark:bg-white/5">
+          <div className="rounded-xl bg-black/10 dark:bg-white/5">
             <VibeChart data={movie.vibe || {}} />
           </div>
 
