@@ -12,6 +12,7 @@ export default function Navbar() {
         <div className="flex items-center gap-8">
           <Link href="/explore" className="text-gray-800 dark:text-gray-300 hover:text-black dark:hover:text-white">Explore</Link>
           <Link href="/schedule" className="text-gray-800 dark:text-gray-300 hover:text-black dark:hover:text-white">Schedule</Link>
+          <Link href="/categories" className="text-gray-800 dark:text-gray-300 hover:text-black dark:hover:text-white">Categories</Link>
 
           <ThemeToggle />
         </div>
